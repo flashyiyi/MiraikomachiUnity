@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Avatar_Kiana_C4_Material_Wings_1
+  m_Shader: {fileID: 4800000, guid: 515b2c0de91b1c9a4bc191c97685b6e6, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FringeBumpTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FringeTex:
+        m_Texture: {fileID: 2800000, guid: c7232ffa68bfed864be06e136fbb3269, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1a57ca0665ed0a8246bf50450b6f1896, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BloomFactor: 1
+    - _DitherAlpha: 1
+    - _EmissionScaler: 10
+    - _EmissionScalerScalerWithoutHDR: 1
+    - _FadeDistance: 0.1
+    - _FadeOffset: 0
+    - _FringeBumpScaler: 3.43
+    - _FringeIntensity: 3.2
+    - _FringeRangeOffset: 1
+    - _FringeRangeScaler: 2.4
+    - _FringeViewDistance: 5
+    - _MinAlpha: 0
+    - _Opaqueness: 0.15
+    - _OpaquenessScalerWithoutHDR: 1
+    - _UsingDitherAlpha: 0
+    m_Colors:
+    - _Color: {r: 1, g: 0, b: 0, a: 1}
+    - _FringeFresnel: {r: 0.45, g: 1, b: 0, a: 0}

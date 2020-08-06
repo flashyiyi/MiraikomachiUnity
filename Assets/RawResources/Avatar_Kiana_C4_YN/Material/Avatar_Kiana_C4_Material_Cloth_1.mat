@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Avatar_Kiana_C4_Material_Cloth_1
+  m_Shader: {fileID: 4800000, guid: d17b47540191538f42993374aaad6f1e, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DTTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightMapTex:
+        m_Texture: {fileID: 2800000, guid: ea472f032e13e4a6463ed89acff54a21, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1a57ca0665ed0a8246bf50450b6f1896, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineColorTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SPNoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SPTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _factorTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _indexTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tableTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BloomFactor: 1
+    - _DTIntensity: 5
+    - _DTNormalDisplacment: 0
+    - _DTPlaySpeed: 0
+    - _DTUVScaleInX: 1
+    - _DTUVScaleInY: 1
+    - _Distortion: 0
+    - _DitherAlpha: 1
+    - _FadeDistance: 0
+    - _FadeOffset: 0
+    - _LightArea: 0.51
+    - _LookupColor: 0
+    - _LookupColorBilinear: 0
+    - _MaxOutlineZOffset: 1
+    - _Opaqueness: 1
+    - _OutlineCamStart: 1000
+    - _OutlineWidth: 0.07
+    - _RGBias: 0
+    - _RGBloomFactor: 1
+    - _RGRatio: 0.5
+    - _RGScale: 1
+    - _RGShininess: 1
+    - _RimGlow: 0
+    - _SPIntensity: 0.5
+    - _SPNoiseScaler: 1
+    - _SPOpaqueness: 1
+    - _SPTransition: 0
+    - _SPTransitionBloomFactor: 1
+    - _SPTransitionEmissionScaler: 1
+    - _Scale: 0.01
+    - _SecondShadow: 0.51
+    - _Shininess: 10
+    - _SpecMulti: 0.2
+    - _SpecialState: 0
+    - _UsingDitherAlpha: 0
+    - _VertexAlphaFactor: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DTFresnel: {r: 1, g: 1, b: 0, a: 0}
+    - _FirstShadowMultColor: {r: 0.828, g: 0.6822689, b: 0.613548, a: 1}
+    - _LightSpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0.1019608, g: 0.1019608, b: 0.1019608, a: 1}
+    - _RGColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SPOutlineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SPTransitionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondShadowMultColor: {r: 0.709, g: 0.5255009, b: 0.454469, a: 1}
